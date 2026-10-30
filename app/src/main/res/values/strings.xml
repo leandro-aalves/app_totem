@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Totem</string>
+    <string name="enter_pin_title">Digite a senha para sair do modo totem</string>
+    <string name="pin_hint">Senha</string>
+    <string name="wrong_pin">Senha incorreta</string>
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancelar</string>
+</resources>
